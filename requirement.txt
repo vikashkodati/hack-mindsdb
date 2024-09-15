@@ -1,6 +1,5 @@
 streamlit
 crewai
 pydantic
-crewai.agent
 
 
