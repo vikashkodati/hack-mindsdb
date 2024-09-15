@@ -1,2 +1,4 @@
-Streamlit 
+streamlit
 crewai
+pydantic
+
