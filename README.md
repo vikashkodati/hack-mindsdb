@@ -12,6 +12,8 @@ The goal of this project is to retrieve NDVI (Normalized Difference Vegetation I
 2. **Analyze NDVI Data**: Preprocess and calculate statistical metrics on the fetched NDVI data.
 3. **Train Anomaly Detection Model**: Train a machine learning model using MindsDB to detect anomalies in the NDVI data.
 
+
+### Submission: https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/terrasentinels/terrasentinels
 ---
 
 ## Directory Structure
