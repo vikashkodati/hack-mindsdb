@@ -1,5 +1,5 @@
 streamlit
 pydantic
-git+https://github.com/shahzcoder/crewai-AI_Agents_hackathon.git
+crewai
 
 
