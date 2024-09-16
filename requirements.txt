@@ -1,0 +1,8 @@
+mindsdb_sdk 
+pandas 
+numpy
+crewai
+matplotlib
+requests
+python-dotenv
+rasterio

@@ -1,0 +1,3 @@
+https://docs.crewai.com/getting-started/Start-a-New-CrewAI-Project-Template-Method/
+
+https://github.com/crewAIInc/crewAI-examples/tree/main
