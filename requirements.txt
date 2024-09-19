@@ -1,8 +1,5 @@
-mindsdb_sdk 
-pandas 
-numpy
+streamlit
+pydantic
 crewai
-matplotlib
-requests
-python-dotenv
-rasterio
+
+
